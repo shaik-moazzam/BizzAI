@@ -174,27 +174,23 @@ cd BizzAI
 
 #### 2. Backend Setup
 
-````bash
+```bash
 cd backend
-
 # Install dependencies
 npm install
-
 # Create .env file
 cp .env.example .env
+```
 
 #### 3. Frontend Setup
 
 ```bash
 cd ../frontend
-
 # Install dependencies
 npm install
-
 # Create .env file
 cp .env.example .env
-
-````
+```
 
 ### Running the Application
 
